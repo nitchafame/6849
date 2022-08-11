@@ -1,7 +1,7 @@
 ## 6849
 ### an exploration on perception of time by using polyrhythm
 
-6849 is Kengchakaj’s original composition that released on his debut album LAK LAN in 2019. 
+6849 is [Kengchakaj](https://kengchakaj.info/)’s original composition that released on his debut album LAK LAN in 2019. 
 The composition can be found online [here](https://kengchakaj.bandcamp.com/track/6849)
 
 This code using CHUCK programming laguage.  
